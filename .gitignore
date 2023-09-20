@@ -1,0 +1,13 @@
+# Ignore the node_modules directory
+/node_modules
+
+# Ignore log files and other generated files
+*.log
+.DS_Store
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Add any other files or directories to ignore below
