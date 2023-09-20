@@ -28,11 +28,11 @@ const Header = () => {
                     data-aos-duration="2500"
                 >
                     <span className={styles.subtext}>
-                        Welcome to Dhruva, IIIT Kottayam&apos;s own Technical
+                        Welcome to Tharang23 ,Jyothi Engineering College &apos;s own Technical
                         Fest.
                     </span>
                     <span>
-                        Join us in this four-day-long virtual extravaganza
+                        Join us in this two-day-long virtual extravaganza
                         <br />
                         that&apos;s bound to fire up your neurons and spark your
                         creative flair!
