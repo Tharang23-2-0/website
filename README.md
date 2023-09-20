@@ -1,3 +1,3 @@
-# Dhruva
+# Tharang
 
-IIIT Kottayam Technical Fest Website.
+Jyothi Engineering College
