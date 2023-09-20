@@ -1,5 +1,10 @@
-# Ignore the node_modules directory
-/node_modules
+# Ignore Node.js modules
+node_modules/
+
+# Ignore Next.js build files
+.next/
+out/
+
 
 # Ignore log files and other generated files
 *.log
