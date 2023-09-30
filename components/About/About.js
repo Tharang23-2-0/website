@@ -13,18 +13,19 @@ const About = () => {
         <div className={styles.container} id = 'AboutUS'>
             <div className={styles.title_container}>
                 <h1 className={styles.title} >
-                    What is <span>Dhruva&nbsp;?</span>
+                    What is <span>Tharang23&nbsp;?</span>
                 </h1>
 
                 <p className={styles.content}>
-                    Dhruva is the annual tech fest of IIIT Kottayam! It’s the
-                    amalgamation of mind gruelling competitions, thought
-                    provoking expert talks and workshops that stimulate your
-                    cerebral matter!
+                Tharang is a largest Techno Cultural Fest conducted annually by the
+          students of Jyothi Engineering College, Thrissur. Tharang, since its
+          inception, has evolved into one of the biggest events for tech-wits
+          and creative minds across the state. The new edition "Tharang 2023" is
+          not different either. The fest brings together the latest in
+          technology, automobiles, workshop, games, arts, dance and music, all
+          inside a jam packed session of two days, march 31st and apri 1st.
                     <br />
-                    <br />
-                    Just like the pole star dhruva, this event is your chance to
-                    shine bright and bring into play the technical talents!
+                    
 
                 </p>
                 {/* <div className={styles.btn_container}>
@@ -33,11 +34,11 @@ const About = () => {
             </div>
             <div className={styles.date_container}>
                 <div className={styles.left_date} >
-                    <Date day="28" month="October" subtxt="th" />
+                    <Date day="10" month="November" subtxt="th" />
                 </div>
                 <hr className={styles.line} />
                 <div className={styles.right_date} >
-                    <Date day="31" month="October" subtxt="st" />
+                    <Date day="11" month="November" subtxt="st" />
                 </div>
             </div>
             <br />
